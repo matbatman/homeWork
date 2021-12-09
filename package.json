@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "second":"node second.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "matbat",
